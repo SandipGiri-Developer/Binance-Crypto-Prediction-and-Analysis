@@ -1,4 +1,4 @@
-
+![alt text](project-6.png)
 
 #  Binance Crypto Prediction & Analysis
 
